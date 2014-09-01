@@ -3,11 +3,11 @@
   <channel>
     <title>Playlist Feed</title>
     <item>
-    	<title>Radio Swiss Classic</title>
+    	<title>Radio Classic</title>
     	<link>http://www.swissradio.ch/streams/6034.m3u</link>
     </item>
     <item>
-    	<title>Radio Swiss Jazz</title>
+    	<title>Radio Jazz/Swing</title>
     	<link>http://www.swissradio.ch/streams/6054.m3u</link>
     </item>
   </channel>
