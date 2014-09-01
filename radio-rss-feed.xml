@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Playlist Feed</title>
+    <item>
+    	<title>Radio Swiss Classic</title>
+    	<link>http://www.swissradio.ch/streams/6034.m3u</link>
+    </item>
+    <item>
+    	<title>Radio Swiss Jazz</title>
+    	<link>http://www.swissradio.ch/streams/6054.m3u</link>
+    </item>
+  </channel>
+</rss>
